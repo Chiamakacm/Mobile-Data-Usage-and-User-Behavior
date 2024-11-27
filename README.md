@@ -8,17 +8,17 @@ I have seen so many articles around mobile phone usage that I wanted to see if t
   2. Is there a relationship between your gender or the operating system you use and screen time?
   3. What can increased screen time predict?
 
-#Running the code
+# Running the code
 I used visual studio and installed Pythons version 3. The main libaries used are pandas, numpy, seaborn, matplotlib and sklearn. 
 
-File
+# File
 The notebook contains all the code and findings. The csv file shows the data set used
 
-#Results
+# Results
 The findings and answers to the 3 main questions I was asking can be found in the link below
 https://medium.com/@chiamakamezue/is-screen-time-higher-among-young-adults-a2c655f3ce57
 
-#Credit
+# Credit
 The data set used was created by kaggle user Vala Khorasani, link below
 https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset/data
 
