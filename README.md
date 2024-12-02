@@ -23,3 +23,8 @@ The data set used was created by kaggle user Vala Khorasani, link below
 https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset/data
 
 Also credit to the Udacity team for all thesupport and knowledge sharing
+
+Also to the resources below
+https://medium.com/@ozturkfemre/data-visualization-with-python-bc0fd1c3879f
+https://scikit-learn.org/1.5/modules/model_evaluation.html
+Chatgpt
