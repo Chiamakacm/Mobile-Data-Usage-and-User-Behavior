@@ -6,7 +6,9 @@ https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behav
 I have seen so many articles around mobile phone usage that I wanted to see if this is seen more amoung certain demographics. I wanted to answer the below questions;
 
 Question 1 - Is screen time higher amongst the younger generations?
+
 Question 2 - Is there a relationship between your gender or the device you use and screen time?
+
 Question 3 - What can help indicate screen time?
 
 # Running the code
