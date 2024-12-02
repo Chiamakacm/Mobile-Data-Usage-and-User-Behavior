@@ -4,9 +4,10 @@ https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behav
 
 # Why I chose this topic?
 I have seen so many articles around mobile phone usage that I wanted to see if this is seen more amoung certain demographics. I wanted to answer the below questions;
-  1. Does age impact your screen time?
-  2. Is there a relationship between your gender or the operating system you use and screen time?
-  3. What can increased screen time predict?
+
+Question 1 - Is screen time higher amongst the younger generations?
+Question 2 - Is there a relationship between your gender or the device you use and screen time?
+Question 3 - What can help indicate screen time?
 
 # Running the code
 I used visual studio and installed Pythons version 3. The main libaries used are pandas, numpy, seaborn, matplotlib and sklearn. 
